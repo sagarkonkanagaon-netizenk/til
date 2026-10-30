@@ -8,11 +8,22 @@ Each note is one problem, one fix, and code you can paste. Written by
 ## Spark
 
 - [Salting a skewed join](spark/salting-a-skewed-join.md)
+- [Deduplicating a stream without unbounded state](spark/dedup-streaming-with-watermark.md)
+- [Fixing the small-files problem on write](spark/small-files-problem.md)
 
 ## Delta Lake
 
 - [A backfill you can run twice with `replaceWhere`](delta/idempotent-backfill-replacewhere.md)
 - [SCD Type 2 with one `MERGE`](delta/scd2-with-one-merge.md)
+- [`OPTIMIZE`, `ZORDER` and `VACUUM` without surprises](delta/optimize-zorder-vacuum.md)
+
+## Airflow
+
+- [Sensors that don't hog worker slots](airflow/sensors-reschedule-or-deferrable.md)
+
+## SQL
+
+- [Latest row per key with `ROW_NUMBER`](sql/latest-row-per-key.md)
 
 ---
 
