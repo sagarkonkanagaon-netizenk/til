@@ -28,4 +28,5 @@ Each note is one problem, one fix, and code you can paste. Written by
 ---
 
 **Why this repo?** I learn something every week that I'd otherwise forget. Writing it
-down keeps it, and maybe saves you an hour.
+down keeps it, and maybe saves you an hour. For longer, structured lessons, see
+[Data Dhaba](https://datadhaba.in), my data engineering learning site.
